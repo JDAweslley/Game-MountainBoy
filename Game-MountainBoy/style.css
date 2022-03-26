@@ -1,0 +1,29 @@
+body{
+    background-image: url("img/background.jpg");
+}
+
+.boy{
+    width: 120px;
+    height: 120px;
+    background-image: url("img/prota3.0.png") ;
+    position: absolute;
+    bottom: 0%;
+}
+
+.mountain{
+    position: absolute;
+    width: 120px;
+    height: 67px;
+    bottom: 0;
+    background-image: url("img/obsta1.0.png");
+}
+
+.game-over{
+    text-align: center;
+    color: rgb(255, 88, 88);
+    font-family:'Times New Roman';
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+
